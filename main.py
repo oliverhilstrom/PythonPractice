@@ -1,25 +1,16 @@
-#define movies
-def topFiveMovies():
-    #print title
-    print("Top Five Movies:")
-    #print one movie
-    print("-Scott Pilgrim vs The World")
-    #print two movie
-    print("-Cabin in the Woods")
-    #print three movie
-    print("-Scooby Doo")
-    #print four movie
-    print("-Scooby Doo 2")
-    #print five movie
-    print("-one of those dog ones")
-topFiveMovies()
+#definition start
+def beeMovie():
+    #print bee script
+    print("According to all known laws of aviation, there is no way a bee should be able to fly.")
+    print("Its wings are too small to get its fat little body off the ground.")
+    print("The bee, of course, flies anyway")
+beeMovie()
 
-
-#define dog
-def dogMovies():
-    #print title
-    print("Some of the Dog ones:")
-    print("-A Dogs Purpose")
-    print("-Marly and Me")
-    print("-Back at the Barnyard")
-dogMovies()
+#definition start
+def topFiveNumbers():
+    print("1. 7")
+    print("2. 17")
+    print("3. 21")
+    print("4. industrial revolution")
+    print("5. around 6")
+topFiveNumbers() 
