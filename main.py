@@ -14,3 +14,22 @@ def topFiveNumbers():
     print("4. industrial revolution")
     print("5. around 6")
 topFiveNumbers() 
+
+#doing what sows says
+print(69)
+print(69 + 445)
+print(44444332 - 98977888)
+print(19 * 7)
+print(2 / 88)
+print(5 ** 6)
+print(9 // 9)
+#strings
+print("69" + "420") 
+print("cat" + "dog")
+print(" cat toes" * 5)
+
+def myNameIs(name):
+    print("My Name is " + name)
+
+myNameIs("Olive Oil")
+myNameIs("Oogler")
