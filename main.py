@@ -1,35 +1,22 @@
-#definition start
-def beeMovie():
-    #print bee script
-    print("According to all known laws of aviation, there is no way a bee should be able to fly.")
-    print("Its wings are too small to get its fat little body off the ground.")
-    print("The bee, of course, flies anyway")
-beeMovie()
+def doingMaths(number):
+    print( number + 5 / 2)
+doingMaths(4) 
 
-#definition start
-def topFiveNumbers():
-    print("1. 7")
-    print("2. 17")
-    print("3. 21")
-    print("4. industrial revolution")
-    print("5. around 6")
-topFiveNumbers() 
+def plusFive(x):
+    print(x + 5)
+plusFive(72)
 
-#doing what sows says
-print(69)
-print(69 + 445)
-print(44444332 - 98977888)
-print(19 * 7)
-print(2 / 88)
-print(5 ** 6)
-print(9 // 9)
-#strings
-print("69" + "420") 
-print("cat" + "dog")
-print(" cat toes" * 5)
+def dividedTwo(y):
+    print(y / 2)
+dividedTwo(89)
 
-def myNameIs(name):
-    print("My Name is " + name)
+def addTwoNumbers(one, two):
+    print(one + two)
+addTwoNumbers(74, 23)
 
-myNameIs("Olive Oil")
-myNameIs("Oogler")
+def madLibs(a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r):
+    print("While I've stayed at home, I've practiced the" + a + "for" + b + "hours every" + c + "." +
+    "My favorite key signature to play and practice in is" + d + e + "." + "It has" + f + "flats and" + g + "sharps. I like this key signature because it is" + h +
+    "and" + i + ". I've also gotten awesome at counting time signatures. The time signature I love is" + j + ", because it is" + k + "to count. One insturment I want to learn how to play while I am at home is"
+    + l + ", because it is" + m + "and sounds like a" + n + ". My" + o + "likes it when I play" + p + ", and always gives me a round of applause after my performances! When I return to school, my teacher will be" + q + "of how great I am at playing my insurment. My teacher might even think I sound like" + r + "!")
+madLibs("stylophone", "seventeen", "sunday", "z", "minor", "six", "seven", "juicy", "puffy", "four-fourths", "exuberant", "tambourine", "spicy", "tiny cymbal", "dead grandpa", "Crazy Frog", "proud", "Lemon Demon")
