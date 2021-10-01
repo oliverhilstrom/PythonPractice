@@ -7,3 +7,4 @@ def today():
         else:
             print(x)
             print("odd")
+        x = (x + 1)
